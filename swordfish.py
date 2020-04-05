@@ -4,6 +4,7 @@ while True:
     if name != 'Joe':
         continue
     print('Hello, Joe. What is the password? (It is a Fish.)')
+    password = input()
     if password == 'swordfish':
         break
 print('Access granted.')
