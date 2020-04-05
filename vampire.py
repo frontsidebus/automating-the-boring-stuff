@@ -1,5 +1,9 @@
+name = str('')
+age = int()
+
 print('What is your name?')
 name = input(str())
+
 print('How old are you?')
 age = int(input())
 
