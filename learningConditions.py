@@ -1,3 +1,6 @@
+name = input(str())
+password = input(str())
+
 if name == 'Mary':
     print('Hellow Mary')
     if password == 'swordfish':
